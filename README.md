@@ -31,8 +31,8 @@ hangul-font-dataset: 딥러닝 기반의 폰트 연구를 위한 폰트 데이�
 
 ## Repository structure
 
-* gothic: 총 31개의 고딕(돋움) 폰트 데이터셋
-* myeongjo: 총 30개의 명조(바탕) 폰트 데이터셋
+* gothic: 총 31개의 고딕(돋움) 폰트 데이터셋: https://github.com/stemfont/hangul-font-dataset/tree/main/gothic
+* myeongjo: 총 30개의 명조(바탕) 폰트 데이터셋: https://github.com/stemfont/hangul-font-dataset/tree/main/myeongjo
 
 ## How to get data?
 
