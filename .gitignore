@@ -9,9 +9,6 @@
 
 *.txt
 
-### parquet ###
-*.pq
-
 ### FontForge ###
 *.sfd-*
 *.sfd~

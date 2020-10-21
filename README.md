@@ -1,5 +1,5 @@
-# hangul-font-dataset: 딥러닝 기반의 폰트 연구를 위한 폰트 데이터셋
-
+hangul-font-dataset: 딥러닝 기반의 폰트 연구를 위한 폰트 데이터셋
+=============
 
 ## Introduction
 
@@ -28,6 +28,11 @@
 |SFD|Spline Font Database|폰트 스플라인 데이터베이스 형식의 데이터|
 |Version|String|폰트 프로그램의 버전|
 |Copyright|String|폰트 프로그램의 copyright|
+
+## Repository structure
+
+* gothic: 총 31개의 고딕(돋움) 폰트 데이터셋
+* myeongjo: 총 30개의 명조(바탕) 폰트 데이터셋
 
 ## How to get data?
 
